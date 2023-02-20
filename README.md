@@ -66,13 +66,12 @@ python manage.py runserver
 
 ![card_1.png](readme_view%2Fcard_1.png)
 
-![img.png](img.png)
+![card_2.png](readme_view%2Fcard_2.png)
 
 ![card_3.png](readme_view%2Fcard_3.png)
 
 ![success.png](readme_view%2Fsuccess.png)
 
-
 Демострация успешной тестовой оплаты:
 
-![img_1.png](img_1.png)
+![Stripe_site.png](readme_view%2FStripe_site.png)
